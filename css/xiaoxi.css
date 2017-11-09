@@ -1,0 +1,23 @@
+.header{
+	background: #000;
+}
+.fang{
+	color: #fff;
+}
+.mui-bar .mui-icon {
+    font-size: 18px;
+   
+}
+.mui-table-view {
+    position: relative;
+    margin-top: 0.8rem;
+    margin-bottom: 0;
+    padding-left: 0;
+    list-style: none;
+    background-color: #fff;
+}
+.pp{
+	padding-left: 1rem;
+	margin-top: 0.5rem;
+	letter-spacing: 0.1rem;
+}

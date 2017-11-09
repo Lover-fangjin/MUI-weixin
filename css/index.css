@@ -1,0 +1,23 @@
+.mui-bar-nav {
+    top: 0;
+    -webkit-box-shadow: 0 1px 6px #ccc;
+    box-shadow: 0 1px 6px #ccc;
+    background: #000;
+   	
+}
+.tit{
+	color:#fff;
+	margin-top:4%;
+}
+.mui-table-view {
+    position: relative;
+    margin-top: 40px;
+    margin-bottom: initial;
+    padding-left: 0;
+    list-style: none;
+    background-color: #fff;
+}
+.aa{
+	color: #fff;
+}
+/*wo*/

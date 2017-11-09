@@ -1,0 +1,63 @@
+.tit{
+	color: #fff;
+}
+.hed{
+	background: #000;
+}
+.mui-table-view{
+	margin-top: 3.8rem;
+}
+.mui-icon {
+    font-family: Muiicons;
+     font-size: 20px; 
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1;
+    display: inline-block;
+    text-decoration: none;
+    color: #000;
+    -webkit-font-smoothing: antialiased;
+}
+.mui-icon span{
+	margin-left: 0.5rem;
+}
+.mt{
+	margin-top: 1.5rem;
+}
+.mui-table-view-cell{
+	padding: 1.3rem 1.6rem;
+}
+.tou{
+	float: right;
+	width: 10%;
+	margin-right: 0.8rem;
+	margin-top: -0.7rem;
+}
+/*设置*/
+.aa{
+	display: block;
+	text-align: center;
+}
+.col span{
+	color: #000;
+	font-size: 18px;
+}
+.mt1{
+	margin-top: 4rem;
+}
+#mag{
+	margin: -24px -15px;
+}
+.hed a{
+	color: #fff;
+}
+.tit{
+	color: #fff;
+}
+.hed .mui-title{
+	color: #fff;
+}
+#shezhi{
+	font-size: 1.3rem;
+	padding-top: 0.8rem;
+}
